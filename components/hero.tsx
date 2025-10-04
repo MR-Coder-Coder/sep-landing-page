@@ -33,7 +33,7 @@ export function Hero() {
               </div>
               <div className="hidden md:block w-px h-12 bg-border"></div>
               <div className="text-center">
-                <div className="text-4xl font-bold text-accent mb-2">10%</div>
+                <div className="text-4xl font-bold text-accent mb-2">30%</div>
                 <div className="text-sm text-muted-foreground">Commission on Sales</div>
               </div>
               <div className="hidden md:block w-px h-12 bg-border"></div>

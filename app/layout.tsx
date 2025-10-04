@@ -7,9 +7,9 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "LSP & Co - Info Product Growth Agency",
+  title: "SEP - South East Partners | Info Product Growth Agency",
   description:
-    "Scale your info products with expert client onboarding, course management, advertising, landing pages, and automation.",
+    "Scale your info products with expert client onboarding, course management, advertising, landing pages, and automation. £2k startup fee, 30% commission.",
   generator: "v0.app",
 }
 
