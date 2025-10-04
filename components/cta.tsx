@@ -35,12 +35,12 @@ export function CTA() {
               </div>
               <h3 className="text-lg font-semibold text-foreground">Follow Us</h3>
               <a 
-                href="https://instagram.com/southeastpartners" 
+                href="https://instagram.com/southeast.partners" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-muted-foreground text-sm hover:text-accent transition-colors"
               >
-                @southeastpartners
+                @southeast.partners
               </a>
             </div>
             
